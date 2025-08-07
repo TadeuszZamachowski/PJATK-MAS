@@ -5,11 +5,15 @@ A concise Java prototype emulating core features of a food-delivery platform, in
 \
 ![](https://github.com/TadeuszZamachowski/PJATK-MAS/blob/main/UseCase.png)  
 *Use Case Diagram*  
+\
 ![](https://github.com/TadeuszZamachowski/PJATK-MAS/blob/main/Activity.png)  
 *Activity Diagram*  
+\
 ![](https://github.com/TadeuszZamachowski/PJATK-MAS/blob/main/Interaction.png)  
 *Interaction Diagram*  
+\
 ![](https://github.com/TadeuszZamachowski/PJATK-MAS/blob/main/Class.png)  
 *Initial Class Diagram*  
+\
 ![](https://github.com/TadeuszZamachowski/PJATK-MAS/blob/main/FinalClass.png)  
 *Final Class Diagram, after analysis*  
