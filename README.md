@@ -4,6 +4,8 @@ Projects designed in UML and written using Java 8 for the Systems Design and Arc
 \
 A concise Java prototype emulating core features of a food-delivery platform, including restaurant listings, menu browsing and order placement. Demonstrates object-oriented design and modular code architecture for rapid iteration. Created after extensive planning and documentation phase.
 \
+Full documentation in _Documentation.pdf_
+\
 \
 ![](https://github.com/TadeuszZamachowski/PJATK-MAS/blob/main/UseCase.png)  
 *Use Case Diagram*  
